@@ -6,11 +6,11 @@
 - <b> Homey: Home Finder Web  App (React, Django, TypeScript, Tailswind Components)</b>
   - [Homey ](https://github.com/vn-vision/Homey)
 - <b>Hama: Home Automation App (React Native, Android Studioh, TypeScript, MongoDB)</b>
-  - [Hama: ](https://github.com/vn-vision/Hama)
+  - [Hama](https://github.com/vn-vision/Hama)
 - <b> Hama: Embedded_Home_Automation_System</b>
-  - [IoT: ](https://github.com/vn-vision/Embedded_Home_Automation)
+  - [IoT: Temperature/ Humidity Regulator](https://github.com/vn-vision/Embedded_Home_Automation)
 - <b> Nilva: Tourism Web  App (LAMP Stack)</b>
-  -  [IoT: ](https://github.com/vn-vision/TourismNilva)
+  -  [Nilva](https://github.com/vn-vision/TourismNilva)
 
 <h2>📺 Data Structures, Algorithms and Applications: </h2>
 
@@ -30,4 +30,4 @@
 <br>
 <h3> 👀 Explore My Repositories </h3>
 Feel free to explore my projects above and reach out if you have any questions or collaboration ideas! Let's connect and build something awesome together. 😊
-@.[vn-vision](https://github.com/vn-vision)
+@[vn-vision](https://github.com/vn-vision)
