@@ -1,4 +1,4 @@
-<h1>Hi there 👋 <br> Victor N! <br/><a href="https://www.linkedin.com/in/victor-nganga-s-3-d"> Software Developer,IoT/Robotics Programmer, Machine Learning Programmer</a>
+<h1>Hi there 👋 <br> Victor N! <br/><a href="https://www.linkedin.com/in/victor-nganga-s-3-d"> Software Developer, <br>IoT/Robotics Programmer, Machine Learning Programmer</a>
 </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
